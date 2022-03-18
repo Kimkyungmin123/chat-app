@@ -22,6 +22,4 @@ src
 
 ---
 
-👀 : https://kimkyungmin123.github.io/chat-app/
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gyomni)](https://velog.io/@gyomni/%EC%B1%84%ED%8C%85-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
